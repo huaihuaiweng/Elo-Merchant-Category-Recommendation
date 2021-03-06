@@ -18,7 +18,4 @@ Root Mean Squared Error(RMSE)
 Submissions are scored on the root mean squared error.
 RMSE is defined as:
 
-$RMSE = \sqrt{\frac{1}{n}\sum^n_{i=1}(y_i - \hat{y}_i)^2}$
-
-$\alpha$
-where 
+![]('.\img\RMSE.png')
