@@ -56,3 +56,15 @@ up to 2 months' worth of historical transactions for each card_id
 
 ### 1.3 new_merchant_transaction.csv
 Two months' worth of data for each card_id containing ALL purchases that card_id made at merchant_ids that were not visited in the historical data. The only difference between new_merchant_transaction and historical_transactions is that the values for “month_lag” in new_merchant_transanction is {1,2}. Size : ( 1963031,14 )
+
+# EDA
+[The notebook displaying EDA steps and results](https://github.com/huaihuaiweng/Elo-Merchant-Category-Recommendation/blob/main/Elo_project_EDA.ipynb)
+# Feature engineering and modeling
+[The notebook displaying feature engineering and model steps and results](https://github.com/huaihuaiweng/Elo-Merchant-Category-Recommendation/blob/main/Elo_project_modeling.ipynb)
+# Result
+Our public score on kaggle is 3.9305, which ranks no.1450 on the leaderboard (surpassed 66% of the competitors). The private score is 3.61646, ranking no.1097 on the leaderboard(surpassed 75% of the competitors).
+
+|                   |  Public score  |  Private score |
+|:-----------------:|:--------------:|:--------------:|
+| sample submission | 3.95214(3.41%) | 3.87852(1.02%) |
+|     our model     |  3.69305(66%)  |  3.61646(75%)  |
