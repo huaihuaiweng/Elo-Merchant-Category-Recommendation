@@ -16,6 +16,8 @@ There are five files in total provided. All data is simulated and fictitious, an
 # Evaluation metric
 Root Mean Squared Error(RMSE)
 Submissions are scored on the root mean squared error.
-RMSE is defined as:
+RMSE is defined as: 
+<p align="center">
+    <img src="/img/RMSE.png" width="80%"/>
+<p>
 
-![RMSE](/img/RMSE.png)
