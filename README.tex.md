@@ -20,4 +20,5 @@ RMSE is defined as:
 
 $RMSE = \sqrt{\frac{1}{n}\sum^n_{i=1}(y_i - \hat{y}_i)^2}$
 
+$\alpha$
 where 
