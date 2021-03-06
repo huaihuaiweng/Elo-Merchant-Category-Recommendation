@@ -1,5 +1,5 @@
 # Elo-Merchant-Category-Recommendation
-This is a Kaggle project which can be found at: [here](https://www.kaggle.com/c/elo-merchant-category-recommendation) However, somehow the comepetition currently can't be accessed.
+This is a Kaggle project which can be found at: [here](https://www.kaggle.com/c/elo-merchant-category-recommendation) (somehow the comepetition currently can't be accessed.)
 
 Elo is one of the largest payment brands in Brazil. It has built partnerships with merchants to offer promotions or discounts to their card holders. However, questions like whether these promotions are suitable for the customers and the merchants; whether the customers like this consumption experience and whether customers have increased for the merchants are raised. Therefore, personalization is the key for answering the questions.
 
