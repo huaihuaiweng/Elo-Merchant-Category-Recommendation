@@ -18,4 +18,4 @@ Root Mean Squared Error(RMSE)
 Submissions are scored on the root mean squared error.
 RMSE is defined as:
 
-![RMSE](\img\RMSE.png)
+![RMSE](/img/RMSE.png)
